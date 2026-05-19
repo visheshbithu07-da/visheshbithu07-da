@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishesh Bithu</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Sales analysis**
+- 🔭 I’m currently working on **Business analysis**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
